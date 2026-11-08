@@ -1,0 +1,6 @@
+{
+  "name": "PharmIndex Pro - Vademécum Clínico & Guía Farmacológica",
+  "description": "Plataforma clínica interactiva para profesionales de la salud con catálogo de medicamentos, clasificaciones farmacológicas, interacciones y guía de prescripción terapéutica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
